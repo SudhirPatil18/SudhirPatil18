@@ -1,14 +1,14 @@
 ![logo](https://github.com/SudhirPatil18/SudhirPatil18/blob/main/Developer.png)
 <h1 align="center">Hi 👋, I'm Sudhir Patil</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" border-radius="10" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhirpatil18&label=Profile%20views&color=0e75b6&style=flat" alt="sudhirpatil18" /> </p>
 
-- 🔭 I’m currently working on **School Managament System**
+- 🔭 I’m currently working on **E-Commercial Website**
 
 - 📫 How to reach me **sudhirrpatil2001@gmail.com**
 
-- 📄 Know about my experiences [I have 1 year Experience](I have 1 year Experience)
+- 📄 Know about my experiences [I have 1.1 year Experience](I have 1.1 year Experience)
 
 - ⚡ Fun fact **I am Fun King**
 
